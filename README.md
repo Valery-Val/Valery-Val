@@ -32,5 +32,5 @@ I’m Junior ML Engineer with linguistic background and experience in game desig
 
 | Project name |  Description  | 
 | :---       |     :---      |
-| [Recommendation system for social network](https://github.com/Valery-Val/rec_system)   | Segment of the final project from the courses which is focused on developing a recommendation system for social networks.     | 
-| [Bank loan prediction](https://github.com/Valery-Val/shift_loan_project)     | Assignment. Training model to predict default probabilities.      | 
+| [Recommendation system for social network](https://github.com/Valery-Val/rec_system)   | Segment of the final project from the courses: recommendation system for social networks.     | 
+| [Bank loan prediction](https://github.com/Valery-Val/shift_loan_project)     | Assignment. Training model to predict probability of bank client default.      | 
