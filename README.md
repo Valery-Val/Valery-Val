@@ -12,7 +12,7 @@
 </h1>
 
 ### :woman_technologist: About Me :
-I’m Junior ML Engineer with linguistic background and experience in game design. 
+I’m Junior Data Scientist with linguistic background and experience in game design. 
 - :monocle_face: eager to grow in Data Science
 - :books: love to study hard
 - :pouting_cat: ready for new challenges!
