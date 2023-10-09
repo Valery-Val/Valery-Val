@@ -33,5 +33,6 @@ I’m Junior Data Scientist with linguistic background and experience in game de
 | Project name |  Description  | 
 | :---       |     :---      |
 | [Recommendation system for social network](https://github.com/Valery-Val/rec_system)   | Segment of the final project from the courses: recommendation system for social networks. Showing example of both machine learning and making service.    | 
+| [Advertising Campaigns Analysis for a Bank](https://github.com/Valery-Val/adv_bank) |  The analysis of advertising campaign data from an anonymized bank that involves evaluating the cost of conversion for various campaigns and identifying optimization opportunities to enhance their cost-effectiveness.  |
 | [Dwarfish Taverns](https://github.com/Valery-Val/dwarfs)    | Predictive analysis for order defaults in dwarfish taverns. Includes data analysis and feature engineering. Demonstration of my approach to ML tasks.     |
 | [Bank loan prediction](https://github.com/Valery-Val/shift_loan_project)     | Assignment. Training model to predict probability of bank client default.      | 
